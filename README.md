@@ -1,16 +1,28 @@
-# news2
+# Dainik Aakhbaar
 
-A new Flutter project.
+This is a simple news application build with advanced flutter which fetch the news from the <b> News Api </b> Org and displays in the application 
 
-## Getting Started
+<br> 
+<h3> Tech Stacks </h3>
 
-This project is a starting point for a Flutter application.
+- Dart
+- Clean Artitecture
+- Bloc
+- Floor
+- Retrofit
+- Hooks
+- Auto_Route
+- Dio
 
-A few resources to get you started if this is your first Flutter project:
+<br>
+<h3> Demo </h3>
+<img src = "https://github.com/Rohit-554/NewsAppFlutterCleanArtitecture/assets/48874687/57a6647c-45cb-406f-9c52-70981fe1ffda" width = 200, height = "400">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br>
+
+
+Thanks :)
+[Abdul Aqeel](https://devmuaz.medium.com/flutter-clean-architecture-series-part-1-d2d4c2e75c47)
+
+
