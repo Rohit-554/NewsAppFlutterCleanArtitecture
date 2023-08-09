@@ -23,6 +23,7 @@ This is a simple news application build with advanced flutter which fetch the ne
 
 
 Thanks :)
-[Abdul Aqeel](https://devmuaz.medium.com/flutter-clean-architecture-series-part-1-d2d4c2e75c47)
+
+
 
 
