@@ -3,24 +3,14 @@
 ## Prerequisites
 
 Before you can contribute to this project, you'll need to have the following tools and dependencies installed on your development environment:
+- Android Studio
+    - [Android Studio Download](https://developer.android.com/studio)
+- Visual Studio Code
+    - [Visual Studio Code](https://code.visualstudio.com/download)
 - Git: Version control to perform various tasks
     - [Git](https://git-scm.com/downloads)
-- Gpg4win: To sign your commits and have a verified tag
+- Gpg4win: To sign commits
     - [Gpg4win](https://gpg4win.org/download.html)
-
-## Cloning the repository
-
-
-## Bulding and running the app
-
-## Making contributions
-
-
-
-
-//End
-https://github.com/Rohit-554/statsHunter/blob/master/contribution.md#prerequisites
-
 
 ## How to contribute
 
@@ -29,30 +19,40 @@ You can click on the fork option in upper right corner in the screen
 Add this repo in your account
 
 Step 2: Clone this repository to your local system
-> git clone https://github.com/your_github_username/NewsAppFlutterCleanArtitecture.git
+'''bash
+git clone https://github.com/your_github_username/NewsAppFlutterCleanArtitecture.git
+'''
 
 Step 3: Change the directory to start contributing
-> cd NewsAppFlutterCleanArtitecture
+'''bash
+cd NewsAppFlutterCleanArtitecture
+'''
 
 Step 4: Create a branch
-> git checkout -b "branch_name"
+'''bash
+git checkout -b "branch_name"
+'''
 
 Step 5: Make changes and commit 
-Make the changes according to the issues and then commit
->git add .
->git commit -m "Your commit"
+- Run the project in your local system
+- Go through the documentations
+- Go through the issues you want to work with
+- If you want to add on something, raise an issue
+- Make the changes according to the issues and then commit
+'''bash
+git add .
+git commit -m "Your commit"
+'''
 
 Step 6: Push the changes to your remote repository
->git push --set-upstream origin branch_name
-
-## Resources
-
-- [Link to install git](https://git-scm.com/downloads)
-- [Link to install gpg4win](https://gpg4win.org/download.html)
+'''bash
+git push --set-upstream origin branch_name
+'''bash
 
 ## Points to note
 
 - Make sure you commit the changes in the branch **you** created
+- Kindly wait to be assigned before start working
 - Remember to sign off commits
 - Branch naming convention
     - Keep it short and descriptive
@@ -76,4 +76,4 @@ Step 6: Push the changes to your remote repository
     > git pull
 
 
-**Thanks :)**
+**Thanks for contributing to NewsAppFlutterCleanArtitecture!**
