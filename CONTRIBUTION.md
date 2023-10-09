@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-Before you can contribute to this project, you'll need to have the following tools and dependencies installed on your development environment:
+Before you can contribute to this project, you'll need to have the following tools and dependencies installed on your development environment:-
 - Android Studio
     - [Android Studio Download](https://developer.android.com/studio)
 - Visual Studio Code
@@ -15,23 +15,17 @@ Before you can contribute to this project, you'll need to have the following too
 ## How to contribute
 
 Step 1: Fork the project
-You can click on the fork option in upper right corner in the screen
-Add this repo in your account
+- You can click on the fork option in upper right corner in the screen
+- Add this repo in your account
 
 Step 2: Clone this repository to your local system
-'''bash
-git clone https://github.com/your_github_username/NewsAppFlutterCleanArtitecture.git
-'''
+> git clone https://github.com/your_github_username/NewsAppFlutterCleanArtitecture.git
 
 Step 3: Change the directory to start contributing
-'''bash
-cd NewsAppFlutterCleanArtitecture
-'''
+> cd NewsAppFlutterCleanArtitecture
 
 Step 4: Create a branch
-'''bash
-git checkout -b "branch_name"
-'''
+> git checkout -b "branch_name"
 
 Step 5: Make changes and commit 
 - Run the project in your local system
@@ -39,15 +33,11 @@ Step 5: Make changes and commit
 - Go through the issues you want to work with
 - If you want to add on something, raise an issue
 - Make the changes according to the issues and then commit
-'''bash
-git add .
-git commit -m "Your commit"
-'''
+> git add .
+> git commit -m "Your commit"
 
 Step 6: Push the changes to your remote repository
-'''bash
-git push --set-upstream origin branch_name
-'''bash
+> git push --set-upstream origin branch_name
 
 ## Points to note
 
@@ -62,7 +52,7 @@ git push --set-upstream origin branch_name
 - Pull requests {PR}
     - PR should have a meaningful description
     - Try to keep a PR focused on one feature
-    - If possible, add code snippets of what changes **you** made
+    - If possible, add code snippets of what changes **you** made in comments
     - Do not create pull request on main branch
 - Make sure your code is readable i.e., others can read your code and work on it
     - Add indents and comments if needed
