@@ -19,7 +19,7 @@ Step 1: Fork the project
 - Add this repo in your account
 
 Step 2: Clone this repository to your local system
-> git clone https://github.com/your_github_username/NewsAppFlutterCleanArtitecture.git
+> git clone https://github.com/Rohit-554/NewsAppFlutterCleanArtitecture.git
 
 Step 3: Change the directory to start contributing
 > cd NewsAppFlutterCleanArtitecture
