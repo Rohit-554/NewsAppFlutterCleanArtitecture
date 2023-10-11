@@ -1,6 +1,6 @@
 # Dainik Aakhbaar
 
-This is a simple news application build with advanced flutter which fetch the news from the <b> News Api </b> Org and displays in the application 
+This is a simple news application build with advanced flutter which fetch the news from the <b> News Api </b> Org and displays in the application.
 
 <br> 
 <h3> Tech Stacks </h3>
